@@ -25,7 +25,7 @@
             </a>
           </li>
           <li>
-              <a href="https://www.instagram.com/ryo_626_take">
+              <a href="https://www.instagram.com/the.other.ryo">
               <fa-icon class="color i" :icon="['fab', 'instagram']" size="1x"/>
               <i class="fa fa-instagram" aria-hidden="true"></i>
               </a> 
