@@ -2,9 +2,9 @@ import colors from 'vuetify/es5/util/colors'
 
 export default {
   mode: 'spa',
-  router: {
-    base: '/dist/'
-  },
+  // router: {
+  //   base: '/dist/'
+  // },
   /*
   ** Headers of the page
   */
