@@ -57,7 +57,7 @@
      <div class="content">
        <br><br>
        <ul>
-         <li><h4>大学3年生　会津大学コンピューター理工学部</h4></li>
+         <li><h4>大学4年生　会津大学コンピューター理工学部</h4></li>
          <li><h4>大武　凌(21)</h4></li>
          <li>栃木・宇都宮市出身</li><br>
          <li>'05 栃木県宇都宮市立陽西保育園　卒園</li>
@@ -111,7 +111,7 @@
        <h2>-From now on-</h2>
        <br>
        <li>メインでやってくことは就活です。自分の納得のいく就活ができるように励んでいきます。
-         就活と同時進行でバイトとポートフォリオ制作をちょこちょこ行っていきます。
+         就活と同時進行でバイトとポートフォリオ制作を少しずつ行っていきます。
          就活が終わり次第、卒論とモダンなプログラミング言語の学習に励みながら、友達とたくさん遊びにいきたいと思っています。
          その他に、英語をやったり、新しいことをしてみたり、楽しい・面白いと思うことにたくさん手を出していこうと思います。
          自分自身たくさんのことを経験して成長したいと思っています。<br><br>
@@ -129,7 +129,7 @@
 
  <footer>
   <div class=content>
-<p>1250211@gmail.com</p>
+<p>s1250211@gmail.com</p>
 <p>Last edit date：2020/04/26</p>
   </div>
   </footer>
@@ -584,23 +584,3 @@ footer{
   padding:10px;
 }
 </style>
-
-<!--<script>
-var img1 = new Image();
-img1.src = 'https://lh3.googleusercontent.com/hoVBJ-8V-V1cWJ1fkMH__5TfMDeTQLY5EQdmlis0_iupZFwrRLlMZuJ9fgJwt2axlyGb5LbUsbzU-q_Tg8tGYKLNY6iNPUpMGoG8x3S5MnInsrOCRLppZzIVIEFwYXNBXmimpgOtNZ76ftdqNblWGgVVO8J83A344LvAjQ8JMaVZqKTKwZ5ldLlP3M7eTOL_yCoPixh0us6Bqusf5yLcfQQ3-QhgxF3XRHvYtHAGMlb89F5JgpiKWV5MdPy2-1_sEIZbXNtrnG7P7rOy4NILfeAqpjLU54iKIruo7etDh0ekGljcIo28OPWoUC9xjn68MFYSem5LmBcjjWDhzpgTBeQ7duACyRHHnK0NZiO5DIyPGTO8vAS3KbDdXhEAGSyGVU37IDZGEvRQR7lAwwkIIF4V-iZALunrmWQYaaXxcw_t4Ndcgg61occDJZVM0FvZhzrl8NkabtQQBEGb85pFDcbNy9UE3MCX_6JBwHwly7QzPiqc7pWgt4proW-EScSSh9wXtTMb7--dTBBAQG9XdEehJJ_0arcW0dPKAsL6DjsqXLBS6db0uCSobFl7VHNLfsALBeXSqrFIF39JFlVdZVcc7Vw-0pl0v0YkwwuirJMW9mjRYzV7nS2NIctcS3-J2sUGCLuIY291gXEa9rWC5bGPkTeqPb_oaUVCvQmPL6-jJrtjBbd9iw=w1280-h591-no';
-var img2 = new Image();
-img2.src = 'https://lh3.googleusercontent.com/EbtFvWus48688ylC0ElvJaU32OcUFxubpJU6EJH164AT5UDVwOmVF0CcWfjbYxG8GSSmsfzKfYpBwX1vc9lv_ZrW6sIYIvcasolVpF9Jb1BU25SrlX5n9DMCIg5E5T81AHHULlUe03MoL6I-23BwqBUJeUYeK-FH4VJMSFaZ83df-_KjT1tYAV5_YjGvfOORJiL4DsuKElSBd84Lykis8zigHfcduJ_eVJwu7-CL7ww_ViOzUpA-15dBiIL8GTNPzMS7P2lIXKmEXxT4YWpPlz82HJnBUq6Wk3mU-J2OceD5JC9uIWOJWljMS8t6lTZkKu8Go8v8_QRz2OVDl4yJ-hbPjhq5j6M8VJC4RspbgQbvti8OOR5YJqh6OlSvWMBaejxB5fSmZEuHBhSjdjCy23ZhNaYpqnEo9QEQRFXXkfwcScPTK-51kyL9XmSAHlFms_znkvyF5v4POH4GxuXT73ejfr3KT4Z7QNdKDq2z8_DHKmnZmET5f_W4XBZ7tWK3mdHZmszde6PLD6rmwXUKJISEUsAaB-LzkHQMsJYAPbTtFzH4wlyJgY224hUzaK0PcYRRKjdwWb9lcVCVSSiNLtyaiO62mDVAZSkkyayLIEna5zFONow9__MWnqUO2TYL6TYCrtbMCyXWX9UCx-AnSwmZS95HMA92UDnARE5IOhY0t_Z_VoqpHg=s1334-no';
-
-var img_width = img.width;
-
-
-var app = new Vue ({
-  el: '#app',
-  data: {
-    
-
-  }
-  
-})
-</script>>
--->
