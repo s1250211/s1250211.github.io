@@ -123,14 +123,17 @@
      </ul>
      </div>
    </div>
+   <div class="movie">
+     <a href="https://youtu.be/GYolJzlfeJ4"><button><p>動画作品</p></button></a>
+   </div>
    <div class="photo">
    </div>
  </div>
 
  <footer>
   <div class=content>
-<p>s1250211@gmail.com</p>
-<p>Last edit date：2020/04/26</p>
+<p>s1250211@gmail.com </p>
+<p>Last edit date：2020/04/26 </p>
   </div>
   </footer>
 
@@ -311,21 +314,21 @@ header ul li:hover .color{
   left:490px;
 }
 .F{
-  top:650px;
-  left:580px;
+  top:600px;
+  left:595px;
 }
 .G{
-  top:665px;
-  left:1050px;
+  top:635px;
+  left:1070px;
 }
-.H{
+/*.H{
   top:915px;
   left:110px;
 }
 .I{
   top:885px;
   left:455px;
-}
+}*/
 .life{
   position: absolute;
   background-color:rgb(236, 255, 227);
@@ -383,9 +386,9 @@ header ul li:hover .color{
   background-color:rgb(255, 225, 225);
   height:450px;
   width:550px;
-  top:650px;
-  left:550px;
-  transform: rotate(2deg);
+  top:610px;
+  left:560px;
+  transform: rotate(4deg);
 }
 .future ul{
   list-style: none;
@@ -399,7 +402,7 @@ header ul li:hover .color{
   height:240px;
   width:400px;
   background-image: url(https://lh3.googleusercontent.com/lkhfrn8n62ZuFJBRCYIrLytpaqBFKmfm26ckknPnK_8dwKNyH4zch_N7iGdUS5B0QXH-055OYvfqVDFJT3PatYha8FWHEXk4AXDx3H6GeXy5rio6oq1woZJazu32R0uHa5xdEdCqSug2LttX-k9S6qE_XOhR2Mc_Ilz16bYBvOTCZ7oWZ9NzCvAPJlmn9w-5L1DgGpFpXjEChuiGvmDQGc1l2B_hvq1LqyJOAzVGLtnN5kYRVql_vBAKhf9TdJXPL6KBy79srdFBpXyt5OenTEYGVUzgKa1y23ZpyRm0N8ufcy6BEdJAtnw-v44xX3nr2LishqIsPkoP4q7kkbNHv-FMU753RwagTAR-UhGoaP2IWxbw4Sq8cyFWuE9X-DzEHFY_MeDJa98GD4BJ8tO6hbdwEIKtLw6jf1nR_XE9abCtZtI_ms_qB1NfVWxLhNVITZuRSKWSGIwCWDpXiqmaQTUGjLcDdpy7Z0ClhWFxFg99ax1P-Vt4Z1ZSYk5vfWNZVrEnM6oh54HfTk1SWtUQ038pn5WiHZIJV8LGpR9QBZcQjYn7uu_7MEuAH4LtP-p2QQFuHYK83z9nC7mpfE9k2MhzJlySTSom_Ea2BfUVoEuxeF8SGMVsp8_LMPuCWT3Fx1LBH-T61Db4Sd87mqevDFJMYnUAemg_EeBKcnIc6e3CpIOOv24T_g=w2450-h1378-no);
-  top:530px;
+  top:505px;
   left:-263px;
   transform: rotate(-5deg);
   border:solid 7px #e0e0e0;
@@ -422,7 +425,39 @@ header ul li:hover .color{
     left: 0;
     top: 0;
 }
- 
+
+.movie{
+  position:absolute;
+  background-color:white;
+  text-align: center;
+  top:400px;
+  left:50px;
+  border-radius: 5px;
+  transform: rotate(2deg);
+  box-shadow: 4px 4px 8px;
+}
+.movie p{
+  margin: 0px auto;
+  font-size: 3em;
+  padding: 10px 20px;
+  font-family:monospace;
+  color: #000;
+}
+.movie:hover{
+  background-color:rgb(170, 241, 250);
+  transition:all 0.2s;
+
+}
+.movie p:hover {
+  color:rgb(248, 133, 113);
+  transition:all 0.2s;
+  text-shadow:0 3px 3px black;
+}
+.movie:active{
+box-shadow: none;
+
+}
+
 /* @keyframes show {
     0% {opacity: 0}
     17% {opacity: 1}
@@ -582,5 +617,7 @@ footer{
   text-align: right;
   color:#fff;
   padding:10px;
+  position:relative;
+
 }
 </style>
