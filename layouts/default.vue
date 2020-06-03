@@ -9,19 +9,19 @@
           <li>
             <a href="https://www.facebook.com/626RyOtK">
               <fa-icon class="color f" :icon="['fab', 'facebook-f']" size="1x"/>
-              <i class="fa fa-facebook" aria-hidden="true"></i>
+              <i class="fa fa-facebook " aria-hidden="true"></i>
             </a>
           </li>
           <li>
             <a href="#">
               <fa-icon class="color t" :icon="['fab', 'twitter']" size="1x"/>
-              <i class="fa fa-twitter" aria-hidden="true"></i>
+              <i class="fab fa-twitter "></i>
             </a>
           </li>
           <li>
-            <a href="#">
-              <fa-icon class="color g" :icon="['fab', 'github']" size="1x"/>
-              <i class="fa fa-google-plus" aria-hidden="true"></i>
+            <a href="https://wear.jp/member/">
+              <fa-icon class="color s" :icon="['fas', 'tshirt']" size="1x"/>
+              <i class="fa fa-tshirt" aria-hidden="true"></i>
             </a>
           </li>
           <li>
@@ -38,7 +38,7 @@
         <p>Welcome to my portfolio !</P>
         <p>Please scroll down↓↓↓</p>
       </h1>
-      <img src="https://lh3.googleusercontent.com/u45PuH_mPCE_uJDoBZqaF-tu_-qIbAN44slz3kI8ipn9ggFfRsIAxNZJrwYYcZbll9yXhx-VKL1Di7BgbgU3MM6-D2hLGXSLJnDfslbVlCFpZ9_U-7KgPD5gH14Nt1O1K2MZATb5S1ENh5OAe7AetkEQ6wjnU8Er114NCerjBpl79FaUbSXrmmMO6-DoKmUWq1B0IhBSohDiN9hVHMEQUyyk0SX1ZoDQyXnSk5YIG2eNHDqrbppYH4_MTtK9aZWFxpEugw6JwIvRN_dwQ6uEvvaRzOnr-CaKJh-UDmDa08WrYX49VSfwUtZazEv7W-i1XyvsUeMGsDQWuhYSF_wKcSm9yqxwDY03oRRqtFked7RDFCGC_igJWbb6_mw9DYMesN12HdP2QYL9hQnUZsaJn86Nmom1Jxb6C0smPoWTaQHjzgvRzu0jdSO43jLhPGaAEzSQdDJNaQo14XY6skjQlxYf9lifsPJH0-TDZU_laKCmz5MOIbFhn0VF-ZI9XLnDn2eIBMbxdagIBZ85rHOV74T8NI4wUUYGmTnpDaQt3qmNUnd7givPbysy5Y46w9wG2XhoTq9ONFZA0oGlOZFYanEMocA-oOMOdS9haupJe0pBYUhYMAqdaNydujN5diZeumT2PzKByBAg-6W6Qx1bQ0jdK9AE3mVeEwVdQpWRhsSIjBocTewMCw=w302-h227-no">
+      <img src="https://lh3.googleusercontent.com/og7IlzXGncDFmnAVlGCPL-Q_bE1lWpXT_3A6CqqlgkB0uLUKzcCGSeB3I51Mdg8pNYU8rRan09UKf8GpGeUgJGVq7PwmPCITdbx1yS7HjKZPDiFu0fK49X44uqEEcC2aG0Ez0mH2UI18Rus7oDwCLmAdVJFzJbLq6c7EBMU72YG8TVd0vSTu2Ise73iEtZhvuxgBtzupnkl0tOVT7b1_yjrYgXohhBj_C3zJEQrr4w8FRZcEgFHQjGE0B2St_RBJBCTR8Wl6lgebaibJSueNvu_SgD7e4zy_7cEju1evxJK1obLpYYET7Pzf1CgSUoX6NlZg1v07JqkymJjyQixpUIJuDl2MopndyatnKLTV9_siuidxawopHyXXin9u4Q-8MykoBWYMf_0ZWiJ-lWbksrjr9r7fcbNflZaRynOn4PvL7hq6z4xrEikbxcZWZcf-fnFnEmZnTNy4nFAClZlsu-BmbixXg5PZ7W0Zn37KCnjKBC-EaK5uKwH1vP7PDEjGW8gmV7Jrw9s3WrtANBpxJgkej3uKUN-WsSPJZT6Q-YFMDRkYHuiq-kS-3SG5LFJ8CYgoE4pi8HwQ3WzQ2v3pems1oo4psdybnhQ0xio6BfYsz048bPedO4TuNxx_FXlweUEc7meEjO_px7-OA5A-TZkIdnrEDNyRHKDb0neK-Fd__wqVoVD5dG-4ZErZ=s1378-no?authuser=0">
     </div>
 
  <div class="main">
@@ -49,8 +49,6 @@
    <span class=E>◉</span>
    <span class=F>◉</span>
    <span class=G>◉</span>
-   <span class=H>◉</span>
-   <span class=I>◉</span>
    
   <img src="https://lh3.googleusercontent.com/_u1SP6CZZhenlM_mEZSLhZJ12_efuwuSkPXCr2QDpIJEay3-mB0LSyT0WhGlslJ1X_0o-3dGdXjVplr1C9GLncRzpAEe_R7BPqxME7unC9zuJ7mFkaHttCUS8vg3brpwzYxNLZ_Iq9C2VwzXD-JqQdS5CJW2Au3jS0iYVAeJ6RMcyYJaTjVqSqY6umDLsWWxMUxx9Npkm_HSzQbrz5sXqoKkM7gWfswmFERkxWFo5KkSr6ToEygkHjXDR1sxXg2xMCOUvmijJNhY5L7Pk-zMKCS6OT3wR0qWfINJqjqoECPSx-pJZUivSlCg1yaH-7kZ3a8sPJrdEEYvrZZgV0fSoftG0TgKetbR9XOEThwu4tGRJQZonkRYsOjZykIt0n1dyHu8tPNVfMe54paMMs122iTkJf3mnE3oFp95NaPfjEtHKloLcl1tXLsBmRDDvYfL6Z1Uw3bt8AwmZr8uciNvc9BevjUkKW83Fqp1NygTZd4MA7ku28a1ny5ikvBWr677dyw1IUPnmbM7ygRmy7ILV8TyiKhMleCunYkoVpN6ygz_bj61XxdM1_AC6i3RxAOe4wjFlL3hUrwiDK_fIquKKFFADErGJt4SWmeIMamFOyfkdLTp5WWi9ygtoYvAqpVy8B-o_iwS997MQqeI_sC6zZ9QC2CjFqSDkpWlyT14DlXgse6_tIO55g=w757-h769-no">
    <div class="life">
@@ -66,7 +64,7 @@
          <li>'17 栃木県立宇都宮北高校　卒業</li>
          <li>'17 福島県立会津大学　入学</li>
          <li>'18 牛角会津若松店にアルバイトとして入社</li>
-         <li>恋人いない歴 2年と4ヶ月</li>
+         <li>恋人いない歴 2年と6ヶ月</li>
        </ul>
      </div>
    </div>
@@ -74,17 +72,19 @@
      <div class="content">
        <ul>
          <li><h4>-趣味-</h4></li>
-         <li>動画観賞、ドライブ、車の音響改善、スケボー</li>
+         <li>動画観賞、ドライブ、筋トレ</li>
          <li><h4>-特技-</h4></li>
-         <li>魔人ブウ、トトロのカンタのおばあちゃんの<br>声真似(底クオリティ）</li>
+         <li>サッカー</li>
          <li><h4>-好きなお酒の銘柄-</h4></li>
          <li>飛露喜(日本酒)</li>
          <li><h4>-好きな異性の髪型-</h4></li>
-         <li>基本似合ってればなんでもいいですが、強いて言うなら、ボブかポニーテール！</li>
+         <li>ボブの外ハネ or ポニーテール</li>
          <li><h4>-好きなアーティスト-</h4></li>
-         <li>髭男,sumika,King Gnu,Mrs.Green Apple など</li>
+         <li>YOASOBI</li>
          <li><h4>-所属しているサークル-</h4></li>
          <li>バレーボールサークル(部長をやってました)</li>
+         <li><h4>-今年必ずしたいこと-</h4></li>
+         <li>断捨離、ミラーレス一眼カメラの購入</li>
        </ul>
      </div>
    </div>
@@ -113,9 +113,9 @@
        <li>メインでやってくことは就活です。自分の納得のいく就活ができるように励んでいきます。
          就活と同時進行でバイトとポートフォリオ制作を少しずつ行っていきます。
          就活が終わり次第、卒論とモダンなプログラミング言語の学習に励みながら、友達とたくさん遊びにいきたいと思っています。
-         その他に、英語をやったり、新しいことをしてみたり、楽しい・面白いと思うことにたくさん手を出していこうと思います。
+         その他に、英語力をつけたり、新しいことをしてみたり、楽しい・面白いと思うことにたくさん手を出していこうと思います。
          自分自身たくさんのことを経験して成長したいと思っています。<br><br>
-         <h4>ハイスペック人間を目指して、頑張っていきます！！！</h4>
+         <h3>ハイスペック人間を目指して、頑張っていきます！！！</h3>
         </li>
        <li></li>
        <li></li>
@@ -133,7 +133,7 @@
  <footer>
   <div class=content>
 <p>s1250211@gmail.com </p>
-<p>Last edit date：2020/04/26 </p>
+<p>Last edit date：2020/06/02 </p>
   </div>
   </footer>
 
@@ -173,10 +173,12 @@
  </body>
 </template>
 
+
  <style>
 body {
   height:1300px;
-  margin:0;
+  max-width: 1500px;
+  margin: auto;
   padding:0;
   font-family: 'Roboto Condensed', sans-serif;
   background-repeat: no-repeat;
@@ -232,20 +234,46 @@ header ul li{
   padding:0px 10px;
   color:#fff;
   width:80px;
-  
   text-align: center;
+  transition: 0.5s;
 }
 header ul li a{
   color:#fff;
+  transition: 0.5s;
 }
 header ul li:hover{
 background: #fff;
-transition:all 0.5s;
+transition: 0.5s;
 }
-header ul li:hover .color{
-  color:#262626;
-  transition:all 0.5s;
+header ul li:hover .f{
+  color:rgb(57, 113, 218);
+  animation: anime1 0.5s ease 0s infinite alternate;
+  transition: 0.5s;
 }
+header ul li:hover .t{
+  color:deepskyblue;
+  animation: anime1 0.5s ease 0s infinite alternate;
+  transition: 0.5s;
+}
+header ul li:hover .s{
+  color:#a1a0a0;
+  animation: anime1 0.5s ease 0s infinite alternate;
+  transition: 0.5s;
+}
+header ul li:hover .i{
+  color:rgb(255, 11, 72);
+  animation: anime1 0.5s ease 0s infinite alternate;
+  transition: 0.5s;
+}
+@keyframes anime1 {
+  from {
+    transform: scale(1,1);
+  }
+  to {
+    transform: scale(0.8,0.8);
+  }
+}
+
 .box{
   height:700px
 }
@@ -254,8 +282,18 @@ header ul li:hover .color{
   position:absolute;
   top:350px;
   left:100px;
-  border-radius: 200px;
-  
+  height:280px;
+  width:280px;
+  border-radius: 100px;
+  animation: anime2 1s ease 0s infinite alternate;
+}
+@keyframes anime2 {
+  from {
+    transform: rotate(7deg);
+  }
+  to {
+    transform: rotate(-7deg);
+  }
 }
 .box h1 {
   position:absolute;
@@ -280,11 +318,18 @@ header ul li:hover .color{
 }
 .main img{
   object-fit: cover;
+  position: absolute;
   height:300px;
   width:300px;
   margin-top:50px;
   margin-left:30px;
   transform: rotate(-5deg);
+  transition: 0.5s;
+}
+.main img:hover{
+transform: scale(1.1,1.1);
+z-index:4;
+transition: 0.5s;
 }
 .main span{
   color:rgb(221, 162, 0);
@@ -321,14 +366,6 @@ header ul li:hover .color{
   top:635px;
   left:1070px;
 }
-/*.H{
-  top:915px;
-  left:110px;
-}
-.I{
-  top:885px;
-  left:455px;
-}*/
 .life{
   position: absolute;
   background-color:rgb(236, 255, 227);
@@ -337,6 +374,12 @@ header ul li:hover .color{
   top:50px;
   left:330px;
   transform: rotate(3deg);
+  transition: 0.5s;
+}
+.life:hover{
+transform: scale(1.1,1.1);
+z-index:4;
+transition: 0.5s;
 }
 .life ul{
   list-style: none;
@@ -354,6 +397,12 @@ header ul li:hover .color{
   width:380px;
   top:75px;
   left:730px; 
+  transition: 0.5s;
+}
+.profile:hover{
+transform: scale(1.1,1.1);
+z-index:4;
+transition: 0.5s;
 }
 .profile ul{
   list-style: none;
@@ -371,6 +420,12 @@ header ul li:hover .color{
   top:500px;
   margin-left:40px;
   transform: rotate(-1deg);
+  transition: 0.5s;
+}
+.now:hover{
+transform: scale(1.1,1.1);
+z-index:4;
+transition: 0.5s;
 }
 .now ul{
   list-style:square;
@@ -389,6 +444,12 @@ header ul li:hover .color{
   top:610px;
   left:560px;
   transform: rotate(4deg);
+  transition: 0.5s;
+}
+.future:hover{
+transform: scale(1.1,1.1);
+z-index:4;
+transition: 0.5s;
 }
 .future ul{
   list-style: none;
@@ -402,12 +463,17 @@ header ul li:hover .color{
   height:240px;
   width:400px;
   background-image: url(https://lh3.googleusercontent.com/lkhfrn8n62ZuFJBRCYIrLytpaqBFKmfm26ckknPnK_8dwKNyH4zch_N7iGdUS5B0QXH-055OYvfqVDFJT3PatYha8FWHEXk4AXDx3H6GeXy5rio6oq1woZJazu32R0uHa5xdEdCqSug2LttX-k9S6qE_XOhR2Mc_Ilz16bYBvOTCZ7oWZ9NzCvAPJlmn9w-5L1DgGpFpXjEChuiGvmDQGc1l2B_hvq1LqyJOAzVGLtnN5kYRVql_vBAKhf9TdJXPL6KBy79srdFBpXyt5OenTEYGVUzgKa1y23ZpyRm0N8ufcy6BEdJAtnw-v44xX3nr2LishqIsPkoP4q7kkbNHv-FMU753RwagTAR-UhGoaP2IWxbw4Sq8cyFWuE9X-DzEHFY_MeDJa98GD4BJ8tO6hbdwEIKtLw6jf1nR_XE9abCtZtI_ms_qB1NfVWxLhNVITZuRSKWSGIwCWDpXiqmaQTUGjLcDdpy7Z0ClhWFxFg99ax1P-Vt4Z1ZSYk5vfWNZVrEnM6oh54HfTk1SWtUQ038pn5WiHZIJV8LGpR9QBZcQjYn7uu_7MEuAH4LtP-p2QQFuHYK83z9nC7mpfE9k2MhzJlySTSom_Ea2BfUVoEuxeF8SGMVsp8_LMPuCWT3Fx1LBH-T61Db4Sd87mqevDFJMYnUAemg_EeBKcnIc6e3CpIOOv24T_g=w2450-h1378-no);
-  top:505px;
+  top:885px;
   left:-263px;
   transform: rotate(-5deg);
   border:solid 7px #e0e0e0;
   background-size: 100% 100%;
-  
+  transition: 0.5s;
+}
+.photo:hover{
+transform: scale(1.1,1.1);
+z-index:4;
+transition: 0.5s;
 }
 .photo {
     /* スライドショーの幅 */
@@ -457,159 +523,6 @@ header ul li:hover .color{
 box-shadow: none;
 
 }
-
-/* @keyframes show {
-    0% {opacity: 0}
-    17% {opacity: 1}
-    33% {opacity: 1}
-    50% {opacity: 0}
-} */
- 
-/* .photo img:nth-of-type(1) {
-    position: relative;
-} */
- 
-/* .photo img:nth-of-type(2) {
-    animation-delay: 4s;
-}
- 
-.photo img:nth-of-type(3) {
-    animation-delay: 8s;
-} */
- 
-/* .photo img:nth-of-type(4) {     写真の枚数
-    animation-delay: 6s;
-} */
-
-
-/*.bottom ul {
-  position:absolute;
-  top:280%;
-  left:50%;
-  transform:translate(-50%, -50%);
-  display:flex;
-  margin:0;
-  padding:0;
-}
-
-.bottom ul li {
-  list-style:none;
-  margin:0 5px;
-}
-.bottom ul li a .color{
-  color: #262626;
-  transition: .5s;
-}
-
-.bottom ul li a .fa {
-  font-size: 40px;
-  line-height:80px;
-  padding-right: 10px;
-}
-
-.bottom ul li a span {
-  padding:0;
-  margin:0;
-  position:absolute;
-  top: 30px;
-  color: #262626;
-  letter-spacing: 4px;
-  transition: .5s;
-}
-
-.bottom ul li a {
-  text-decoration: none;
-  display:absolute;
-  display:block;
-  width:220px;
-  height:80px;
-  background:#fff;
-  text-align:left;
-  padding-left: 20px;
-  transform: rotate(-30deg) skew(25deg) translate(0,0);
-  transition:.5s;
-  box-shadow: -20px 20px 10px rgba(0,0,0,.5);
-}
-.bottomul li a:before {
-  content: '';
-  position: absolute;
-  top:10px;
-  left:-20px;
-  height:100%;
-  width:20px;
-  background: #b1b1b1;
-  transform: .5s;
-  transform: rotate(0deg) skewY(-45deg);
-}
-.bottom ul li a:after {
-  content: '';
-  position: absolute;
-  bottom:-20px;
-  left:-10px;
-  height:20px;
-  width:100%;
-  background: #b1b1b1;
-  transform: .5s;
-  transform: rotate(0deg) skewX(-45deg);
-}
-
-.bottom ul li a:hover {
-  transform: rotate(-30deg) skew(25deg) translate(20px,-15px);
-  box-shadow: -50px 50px 50px rgba(0,0,0,.5);
-}
-
-.bottom ul li:hover .fa{
-  color:#fff;
-}
-
-.bottom ul li:hover .color {
-  color:#fff;
-}
-
-.bottom ul li:hover span {
-  color:#fff;
-}
-
-.bottom ul li:hover:nth-child(1) a{
-  background: #3b5998;
-}
-.bottom ul li:hover:nth-child(1) a:before{
-  background: #365492;
-}
-.bottom ul li:hover:nth-child(1) a:after{
-  background: #4a69ad;
-}
-
-.bottom ul li:hover:nth-child(2) a{
-  background: #00aced;
-}
-.bottom ul li:hover:nth-child(2) a:before{
-  background: #097aa5;
-}
-.bottom ul li:hover:nth-child(2) a:after{
-  background: #53b9e0;
-}
-
-.bottom ul li:hover:nth-child(3) a{
-  background: #dd4b39;
-}
-.bottom ul li:hover:nth-child(3) a:before{
-  background: #b33a2b;
-}
-.bottom ul li:hover:nth-child(3) a:after{
-  background: #e66a5a;
-}
-
-.bottom ul li:hover:nth-child(4) a{
-  background: #e4405f;
-}
-.bottom ul li:hover:nth-child(4) a:before{
-  background: #d81c3f;
-}
-.bottom ul li:hover:nth-child(4) a:after{
-  background: #e46880;
-}
-*/
 
 footer{
   height:80px;
