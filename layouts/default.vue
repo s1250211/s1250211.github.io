@@ -19,7 +19,7 @@
             </a>
           </li>
           <li>
-            <a href="https://wear.jp/member/">
+            <a href="https://wear.jp/ryo626aizu/">
               <fa-icon class="color s" :icon="['fas', 'tshirt']" size="1x"/>
               <i class="fa fa-tshirt" aria-hidden="true"></i>
             </a>
@@ -38,7 +38,7 @@
         <p>Welcome to my portfolio !</P>
         <p>Please scroll down↓↓↓</p>
       </h1>
-      <img src="https://lh3.googleusercontent.com/og7IlzXGncDFmnAVlGCPL-Q_bE1lWpXT_3A6CqqlgkB0uLUKzcCGSeB3I51Mdg8pNYU8rRan09UKf8GpGeUgJGVq7PwmPCITdbx1yS7HjKZPDiFu0fK49X44uqEEcC2aG0Ez0mH2UI18Rus7oDwCLmAdVJFzJbLq6c7EBMU72YG8TVd0vSTu2Ise73iEtZhvuxgBtzupnkl0tOVT7b1_yjrYgXohhBj_C3zJEQrr4w8FRZcEgFHQjGE0B2St_RBJBCTR8Wl6lgebaibJSueNvu_SgD7e4zy_7cEju1evxJK1obLpYYET7Pzf1CgSUoX6NlZg1v07JqkymJjyQixpUIJuDl2MopndyatnKLTV9_siuidxawopHyXXin9u4Q-8MykoBWYMf_0ZWiJ-lWbksrjr9r7fcbNflZaRynOn4PvL7hq6z4xrEikbxcZWZcf-fnFnEmZnTNy4nFAClZlsu-BmbixXg5PZ7W0Zn37KCnjKBC-EaK5uKwH1vP7PDEjGW8gmV7Jrw9s3WrtANBpxJgkej3uKUN-WsSPJZT6Q-YFMDRkYHuiq-kS-3SG5LFJ8CYgoE4pi8HwQ3WzQ2v3pems1oo4psdybnhQ0xio6BfYsz048bPedO4TuNxx_FXlweUEc7meEjO_px7-OA5A-TZkIdnrEDNyRHKDb0neK-Fd__wqVoVD5dG-4ZErZ=s1378-no?authuser=0">
+      <img src="./Active Chameleon.jpg">
     </div>
 
  <div class="main">
@@ -50,7 +50,7 @@
    <span class=F>◉</span>
    <span class=G>◉</span>
    
-  <img src="https://lh3.googleusercontent.com/_u1SP6CZZhenlM_mEZSLhZJ12_efuwuSkPXCr2QDpIJEay3-mB0LSyT0WhGlslJ1X_0o-3dGdXjVplr1C9GLncRzpAEe_R7BPqxME7unC9zuJ7mFkaHttCUS8vg3brpwzYxNLZ_Iq9C2VwzXD-JqQdS5CJW2Au3jS0iYVAeJ6RMcyYJaTjVqSqY6umDLsWWxMUxx9Npkm_HSzQbrz5sXqoKkM7gWfswmFERkxWFo5KkSr6ToEygkHjXDR1sxXg2xMCOUvmijJNhY5L7Pk-zMKCS6OT3wR0qWfINJqjqoECPSx-pJZUivSlCg1yaH-7kZ3a8sPJrdEEYvrZZgV0fSoftG0TgKetbR9XOEThwu4tGRJQZonkRYsOjZykIt0n1dyHu8tPNVfMe54paMMs122iTkJf3mnE3oFp95NaPfjEtHKloLcl1tXLsBmRDDvYfL6Z1Uw3bt8AwmZr8uciNvc9BevjUkKW83Fqp1NygTZd4MA7ku28a1ny5ikvBWr677dyw1IUPnmbM7ygRmy7ILV8TyiKhMleCunYkoVpN6ygz_bj61XxdM1_AC6i3RxAOe4wjFlL3hUrwiDK_fIquKKFFADErGJt4SWmeIMamFOyfkdLTp5WWi9ygtoYvAqpVy8B-o_iwS997MQqeI_sC6zZ9QC2CjFqSDkpWlyT14DlXgse6_tIO55g=w757-h769-no">
+  <img src="./りょう.JPG">
    <div class="life">
      <div class="content">
        <br><br>
@@ -133,7 +133,7 @@
  <footer>
   <div class=content>
 <p>s1250211@gmail.com </p>
-<p>Last edit date：2020/06/02 </p>
+<p>Last edit date：2020/06/04 </p>
   </div>
   </footer>
 
@@ -462,7 +462,7 @@ transition: 0.5s;
 .photo{
   height:240px;
   width:400px;
-  background-image: url(https://lh3.googleusercontent.com/lkhfrn8n62ZuFJBRCYIrLytpaqBFKmfm26ckknPnK_8dwKNyH4zch_N7iGdUS5B0QXH-055OYvfqVDFJT3PatYha8FWHEXk4AXDx3H6GeXy5rio6oq1woZJazu32R0uHa5xdEdCqSug2LttX-k9S6qE_XOhR2Mc_Ilz16bYBvOTCZ7oWZ9NzCvAPJlmn9w-5L1DgGpFpXjEChuiGvmDQGc1l2B_hvq1LqyJOAzVGLtnN5kYRVql_vBAKhf9TdJXPL6KBy79srdFBpXyt5OenTEYGVUzgKa1y23ZpyRm0N8ufcy6BEdJAtnw-v44xX3nr2LishqIsPkoP4q7kkbNHv-FMU753RwagTAR-UhGoaP2IWxbw4Sq8cyFWuE9X-DzEHFY_MeDJa98GD4BJ8tO6hbdwEIKtLw6jf1nR_XE9abCtZtI_ms_qB1NfVWxLhNVITZuRSKWSGIwCWDpXiqmaQTUGjLcDdpy7Z0ClhWFxFg99ax1P-Vt4Z1ZSYk5vfWNZVrEnM6oh54HfTk1SWtUQ038pn5WiHZIJV8LGpR9QBZcQjYn7uu_7MEuAH4LtP-p2QQFuHYK83z9nC7mpfE9k2MhzJlySTSom_Ea2BfUVoEuxeF8SGMVsp8_LMPuCWT3Fx1LBH-T61Db4Sd87mqevDFJMYnUAemg_EeBKcnIc6e3CpIOOv24T_g=w2450-h1378-no);
+  background-image: url(./すいぞっかん.jpg);
   top:885px;
   left:-263px;
   transform: rotate(-5deg);
