@@ -310,7 +310,8 @@ header ul li:hover .i{
 .main{
   height:1200px;
   background-image: url(https://free-texture.net/wp-content/uploads/CorkBoard01.jpg);
-    border:inset 20px #6b3319;
+  border:inset 20px #6b3319;
+  align-items: center;
   background-repeat: repeat;
   margin:50px 50px;
   position:relative;
